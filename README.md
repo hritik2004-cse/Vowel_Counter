@@ -20,7 +20,7 @@
 
 ## 🚀 Demo
 
-![Vowel Counter Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Vowel+Counter+Demo)
+![img](https://github.com/hritik2004-cse/Vowel_Counter/blob/main/public/project_demo.png)
 
 *Enter any text in the textarea and watch the vowel count update in real-time!*
 
