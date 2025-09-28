@@ -13,7 +13,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-[#07080a] to-[#201f25]">
       <Nav />
       <HeroSec />
-      {/* <Gradient/> */}
+      <Gradient/>
       <Footer />
     </div>
   )
